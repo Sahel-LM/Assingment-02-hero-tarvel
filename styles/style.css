@@ -1,0 +1,14 @@
+/* Universal Styles */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Shared Styles */
+
+body{
+    font-family: "Mulish", sans-serif;
+}
+
+/* Navbar section CSS */
+
