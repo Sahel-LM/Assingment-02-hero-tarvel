@@ -567,6 +567,66 @@ nav{
     text-align: center;
 }
 
+/* footer section css */
+
+footer{
+    width: 100%;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 100px;
+}
+
+.footer-container{
+    margin: 0 240px;
+}
+
+.footer-logo-container{
+    display: flex;
+    width: 260px;
+    margin: 0 auto;
+    padding-top: 110px;
+}
+
+.footer-logo-container h2{
+    color:  #131318;
+    font-family: Mulish;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-left: 16px;
+}
+
+.footer-des{
+    width: 769px;
+    color: #5A5A5D;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+.social-icon{
+    width:180px;
+    margin: 0 auto;
+    margin-top: 32px;
+    margin-bottom: 50px;
+}
+
+.authority{
+    width: 175px;
+    margin: 0 auto;
+}
+
+.authority p{
+    color: #131318;
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
 
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
@@ -1046,6 +1106,51 @@ nav{
 
 }
 
+/* footer section css */
+
+footer{
+    width: 100%;
+    height: 402px;
+    margin-top: 40px;
+}
+
+.footer-container{
+    margin: 0 40px;
+}
+
+.footer-logo-container{
+    display: flex;
+    width: 260px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.footer-logo-container h2{
+    color:  #131318;
+    font-family: Mulish;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-left: 16px;
+}
+
+.footer-des{
+    width: 335px;
+    margin-top: 14px;
+}
+
+.social-icon{
+    width:180px;
+    margin: 0 auto;
+    margin-top: 28px;
+    margin-bottom: 40px;
+}
+.authority p{
+    color: #131318;
+
+    margin-top: 30px;
+}
+
+
 }
 
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
@@ -1493,7 +1598,7 @@ nav{
 }
 
 .email-area{
-        margin: 16px 0 0 100px;one;
+        margin: 16px 0 0 100px;
     }
 
 
@@ -1503,8 +1608,39 @@ nav{
 }
 
 .offer-container{
-
     margin: 250px 0 0 290px;
 }
+
+/* footer section css */
+
+footer{
+    width: 100%;
+    height: 350px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 50px;
+}
+
+.footer-container{
+    margin: 0 70px;
+}
+
+.footer-logo-container{
+    padding-top: 40px;
+}
+
+
+.footer-des{
+    width: 450px;
+}
+
+.social-icon{
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+
+.authority p{
+    margin-top: 30px;
+}
+
 
 }
